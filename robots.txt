@@ -1,0 +1,16 @@
+User-agent: *
+allow: .js
+allow: .css
+disallow: /quiz.html
+disallow: /stevilskii.html
+disallow: /stevilskianswers.html
+disallow: /404.html
+disallow: /izrz/stevilskii.html
+disallow: /izrz/stevilskiianswers.html
+disallow: /trik/quiz.html
+disallow: /4kot/4kot.html
+disallow: /4kot/4kot-answers.html
+disallow: /answers/answers.html
+disallow: /4kot/
+disallow: /izrz/
+disallow: /trik/
